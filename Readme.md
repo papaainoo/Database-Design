@@ -1,4 +1,4 @@
-# :wave: Hello. Welcome to the Construction Database Design Project :building_construction:
+# :wave: **Hello. Welcome to the Construction Database Design Project** :building_construction:
 
 ## :bookmark_tabs:Project Overview
 
