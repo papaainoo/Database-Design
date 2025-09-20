@@ -1,5 +1,13 @@
-# :wave: Hello. Welcome to the Database Design Project
+# :wave: Hello. Welcome to the Construction Database Design Project :building_construction:
 
+## :bookmark_tabs:Project Overview
+
+This project showcases my skills in relational database design using a construction-industry case study.  
+It demonstrates how to:
+- Model complex construction data (projects, equipment, site operations) with a normalized schema.
+- Apply best practices in entity–relationship (ER) modeling, indexing, and data integrity.
+- Build a foundation for downstream analytics and reporting..
+    
 **Current Data Management Problems**
 The construction industry faces significant challenges in data management, particularly in tracking resources, ensuring safety compliance, and managing workforce assignments efficiently. Many companies still rely on fragmented or manual record-keeping, leading to inefficiencies, miscommunication, and potential safety hazards. A major issue is improper resource allocation. Construction materials, machinery, and labor are often not tracked effectively, leading to project delays and budget overruns. Also, safety compliance monitoring is inconsistent, making it difficult to ensure that all employees adhere to regulations and have the necessary training and certifications. The proposed database will serve as a centralized system to streamline construction project management. It will track employee assignments, ensuring workers are placed in projects where their skills are best utilized while preventing over-scheduling or under-utilization. It will also store and monitor safety certifications and compliance records, ensuring only qualified personnel are assigned to hazardous tasks. Moreover, the system will track materials and equipment usage, reducing waste and improving procurement efficiency.
 
